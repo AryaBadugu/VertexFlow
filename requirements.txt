@@ -1,0 +1,6 @@
+# VertexFlow - Capstone Project Dependencies
+arxiv==2.1.0
+pydantic>=2.5.3
+google-genai
+rich
+python-dotenv
